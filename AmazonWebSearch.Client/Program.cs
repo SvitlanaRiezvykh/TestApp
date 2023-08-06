@@ -1,4 +1,4 @@
-namespace WinFormsApp1
+namespace AmazonWebSearch.Client
 {
     internal static class Program
     {

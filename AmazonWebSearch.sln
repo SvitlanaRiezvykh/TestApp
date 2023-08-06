@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmazonWebSearch.Client", "AmazonWebSearch.Client\AmazonWebSearch.Client.csproj", "{91DDCDD1-73B6-4846-9928-D5DCD79310E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonWebSearch.Api", "AmazonWebSearch\AmazonWebSearch.Api.csproj", "{219D19CB-B973-434A-B2E8-60E4FB814D79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonWebSearch.Contracts", "AmazonWebSearch.Contracts\AmazonWebSearch.Contracts.csproj", "{3F3791D2-7277-454A-9922-8212C8BDE5F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91DDCDD1-73B6-4846-9928-D5DCD79310E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91DDCDD1-73B6-4846-9928-D5DCD79310E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91DDCDD1-73B6-4846-9928-D5DCD79310E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91DDCDD1-73B6-4846-9928-D5DCD79310E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219D19CB-B973-434A-B2E8-60E4FB814D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219D19CB-B973-434A-B2E8-60E4FB814D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219D19CB-B973-434A-B2E8-60E4FB814D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219D19CB-B973-434A-B2E8-60E4FB814D79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F3791D2-7277-454A-9922-8212C8BDE5F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3791D2-7277-454A-9922-8212C8BDE5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3791D2-7277-454A-9922-8212C8BDE5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3791D2-7277-454A-9922-8212C8BDE5F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E41D209F-BA2C-4B9E-8FCC-390619C38BDE}
+	EndGlobalSection
+EndGlobal
